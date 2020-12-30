@@ -1,7 +1,7 @@
 ---
 banner:
   enable: true
-  bg_image_webp: images/apple-logo-iphone-12-liquid-art-black-background-2880x1800-1430.jpg
+  bg_image_webp: ''
   bg_image: images/apple-logo-iphone-12-liquid-art-black-background-2880x1800-1430.jpg
   icon: ''
   title: TEST###1111
