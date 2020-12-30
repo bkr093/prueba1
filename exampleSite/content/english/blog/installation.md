@@ -1,12 +1,12 @@
 ---
-title: "How To Setup Meghna Hugo"
-date: 2018-09-12T14:51:12+06:00
+title: How To Setup Meghna Hugo
+date: 2018-09-12T14:51:12.000+06:00
 author: Mark Dinn
-image_webp: images/blog/meghna.webp
-image: images/blog/meghna.jpg
-description : "This is meta description"
----
+image_webp: "/images/r03_mesa-de-trabajo-4-0-5x.png"
+image: "/images/r03_mesa-de-trabajo-4-0-5x.png"
+description: This is meta description
 
+---
 ## Install this template by following those simple steps:
 
 ### STEP-1 : Hugo installation
